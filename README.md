@@ -5,11 +5,6 @@
   Pretoria, South Africa
 </p>
 
-<h3 align="center">
-  👉 <a href="https://kloppers.dev">kloppers.dev</a>
-</h3>
-<p align="center">My portfolio: case studies, the stack, and what I'm building on the side.</p>
-
 <p align="center">
   <a href="https://kloppers.dev"><img alt="Visit kloppers.dev" src="https://img.shields.io/badge/Visit_kloppers.dev-c4106a?style=for-the-badge"></a>
   <a href="https://www.linkedin.com/in/gerhard-j-kloppers"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge"></a>
