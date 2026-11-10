@@ -7,6 +7,7 @@
 
 <p align="center">
   <a href="https://kloppers.dev"><img alt="Visit kloppers.dev" src="https://img.shields.io/badge/Visit_kloppers.dev-c4106a?style=for-the-badge"></a>
+  <a href="https://github.com/kloppers-labs"><img alt="Kloppers Labs on GitHub" src="https://img.shields.io/badge/Kloppers_Labs-a855f7?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/gerhard-j-kloppers"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge"></a>
   <img alt="Microsoft Certified: Azure Developer Associate" src="https://img.shields.io/badge/Azure_Developer_Associate-0078D4?style=for-the-badge">
 </p>
@@ -21,6 +22,8 @@ Away from the keyboard, I’m usually behind the decks playing house and techno 
 
 Lately I’ve been messing around with AI coding agents and seeing how far I can push the cheaper models. That rabbit hole turned into Foreman.
 
+My open-source tools live under [**Kloppers Labs**](https://github.com/kloppers-labs), with a Homebrew tap at `kloppers-labs/tap`.
+
 ### Tech stack
 
 <p>
@@ -30,7 +33,7 @@ Lately I’ve been messing around with AI coding agents and seeing how far I can
   <img src="https://skillicons.dev/icons?i=postgres,redis,elasticsearch,supabase,azure,firebase,docker,githubactions&perline=8" alt="PostgreSQL, Redis, Elasticsearch, Supabase, Azure, Firebase, Docker, GitHub Actions">
 </p>
 <p>
-  <img src="https://skillicons.dev/icons?i=cloudflare,python,rust,tauri,vitest&perline=8" alt="Cloudflare, Python, Rust, Tauri, Vitest">
+  <img src="https://skillicons.dev/icons?i=cloudflare,python,rust,go,tauri,vitest&perline=8" alt="Cloudflare, Python, Rust, Go, Tauri, Vitest">
 </p>
 
 <p>
@@ -60,7 +63,9 @@ Lately I’ve been messing around with AI coding agents and seeing how far I can
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**DeckForge**](https://github.com/CanadianMapleFarmer/deckforge) | A two-deck DJ app for the Pioneer DDJ-FLX4, with a real-time audio engine and GPU-drawn waveforms | Rust · Tauri · wgpu · Svelte |
-| [**Foreman**](https://github.com/CanadianMapleFarmer/foreman) | An MCP server that hands coding tasks to cheaper AI models, behind tests, review and cost caps | TypeScript · MCP |
+| [**deck**](https://github.com/kloppers-labs/deck) | A project command center for the terminal: browse code with go-to-definition, review diffs and commit, run tasks and send HTTP requests | Go · Bubble Tea |
+| [**DeckForge**](https://github.com/kloppers-labs/deckforge) | A two-deck DJ app for the Pioneer DDJ-FLX4, with a real-time audio engine and GPU-drawn waveforms | Rust · Tauri · wgpu · Svelte |
+| [**Azure DevOps for Orca**](https://github.com/kloppers-labs/orca-azure-devops) | An unofficial Orca plugin for boards, pull request reviews, pipelines and wikis in the sidebar | TypeScript · Orca plugin |
+| [**Foreman**](https://github.com/kloppers-labs/foreman) | An MCP server that hands coding tasks to cheaper AI models, behind tests, review and cost caps | TypeScript · Bun · MCP |
 | [**spotify-mcp**](https://github.com/CanadianMapleFarmer/spotify-mcp) | A Spotify MCP server for building DJ sets from Claude Code, Codex and ChatGPT | Python · MCP |
 | [**Spotify for TVs**](https://github.com/CanadianMapleFarmer/spotify-pwa) | A Spotify client for my TV, driven by the remote and paired by QR code | JavaScript · PWA |
